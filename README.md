@@ -1,4 +1,6 @@
-![Project Logo](assets/images/flashAIcards_Logo.png)
+<p align="center">
+  <img src="assets/images/flashAIcards_Logo.png" alt="flashAIcards" width="300">
+</p>
 
 
 # flashAIcards
