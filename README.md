@@ -1,4 +1,4 @@
-![Project Logo](assets/images/flashAIcards_Logo.png
+![Project Logo](assets/images/flashAIcards_Logo.png)
 
 
 # flashAIcards
