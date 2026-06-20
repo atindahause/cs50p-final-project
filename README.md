@@ -1,4 +1,4 @@
-/assets/images/flashAIcards_Logo.png)
+/assets/images/flashAIcards_Logo.png
 
 
 # flashAIcards
